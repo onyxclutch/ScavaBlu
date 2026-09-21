@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
     plugins: [react()],
 
     // GitHub Pages
-    base: '/SCAVABLU/',
+    base: '/ScavaBlu/',
 
     // ESP32 connection for local development
     server: {
